@@ -1,0 +1,1 @@
+Error: camera did not follow pawn {"x":315,"y":63.5,"cx":102,"cy":280,"scale":1,"w":1114,"h":611,"pawn":{"x":102,"y":140}}
