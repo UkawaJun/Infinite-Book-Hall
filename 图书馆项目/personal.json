@@ -1,0 +1,92 @@
+{
+  "entrances": [
+    {
+      "name": "示例书室",
+      "path": "demo/books"
+    },
+    {
+      "name": "阅读书桌",
+      "path": "demo/desk",
+      "type": "furniture"
+    },
+    {
+      "name": "待接入书室",
+      "path": "demo/offline"
+    }
+  ],
+  "last_room": null,
+  "layouts": {
+    "lobby": {
+      "version": 1,
+      "seed": "4ba50576c94d7bf3",
+      "entries": [
+        "24765c54d82fb23b69a0f3151cb04a75bf3400340fb75af32262ebd14ebd8fbe-room",
+        "7b09068cba5858000a2f3fc4fecc04494ffb6404679c974c4bfedaaf6ca22a2a-furniture",
+        "7ded7bbdf9b2945926a6f4a757be3e1f6221d265453427a8a6bc9429b0aaa29d-room"
+      ],
+      "size": 3,
+      "walls": [
+        [
+          true,
+          true,
+          false,
+          true
+        ],
+        [
+          true,
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          false,
+          true,
+          false
+        ],
+        [
+          false,
+          true,
+          false,
+          false
+        ],
+        [
+          true,
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          false,
+          true,
+          false
+        ],
+        [
+          false,
+          true,
+          true,
+          false
+        ]
+      ],
+      "placements": {
+        "24765c54d82fb23b69a0f3151cb04a75bf3400340fb75af32262ebd14ebd8fbe-room": 3,
+        "7b09068cba5858000a2f3fc4fecc04494ffb6404679c974c4bfedaaf6ca22a2a-furniture": 8,
+        "7ded7bbdf9b2945926a6f4a757be3e1f6221d265453427a8a6bc9429b0aaa29d-room": 6
+      }
+    }
+  },
+  "room_overrides": {}
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "policy": "LRU",
+  "maximum": 3000,
+  "retain_after_cleanup": 1500,
+  "entries": [
+    {
+      "key": "7d87e9332e81dce8a68d0406d8e90a1b1f969831ccfaef2460ec6b6f0a21903e",
+      "pdf": "F:\\GPTCodexProject\\图书馆项目\\demo\\books\\Sample.pdf",
+      "file": "7d87e9332e81dce8a68d0406d8e90a1b1f969831ccfaef2460ec6b6f0a21903e.jpg",
+      "size": 976,
+      "mtime_ns": 1792503880537954400,
+      "last_used": 1792515021382131700
+    }
+  ]
+}
